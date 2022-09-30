@@ -1,0 +1,11 @@
+F:\HW\BankingSoftwareC#\FirstMenu\FirstMenu\bin\Debug\FirstMenu.exe.config
+F:\HW\BankingSoftwareC#\FirstMenu\FirstMenu\bin\Debug\FirstMenu.exe
+F:\HW\BankingSoftwareC#\FirstMenu\FirstMenu\bin\Debug\FirstMenu.pdb
+F:\HW\BankingSoftwareC#\FirstMenu\FirstMenu\obj\Debug\FirstMenu.csprojAssemblyReference.cache
+F:\HW\BankingSoftwareC#\FirstMenu\FirstMenu\obj\Debug\FirstMenu.Properties.Resources.resources
+F:\HW\BankingSoftwareC#\FirstMenu\FirstMenu\obj\Debug\FirstMenu.csproj.GenerateResource.cache
+F:\HW\BankingSoftwareC#\FirstMenu\FirstMenu\obj\Debug\FirstMenu.csproj.CoreCompileInputs.cache
+F:\HW\BankingSoftwareC#\FirstMenu\FirstMenu\obj\Debug\FirstMenu.exe
+F:\HW\BankingSoftwareC#\FirstMenu\FirstMenu\obj\Debug\FirstMenu.pdb
+F:\HW\BankingSoftwareC#\FirstMenu\FirstMenu\obj\Debug\FirstMenu.FirstForm.resources
+F:\HW\BankingSoftwareC#\FirstMenu\FirstMenu\obj\Debug\FirstMenu.OpenAccount.resources
